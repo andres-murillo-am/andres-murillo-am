@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy [Andres murillo]  
 
-Soy un apasionado del **análisis de datos** con experiencia en la limpieza, modelado y visualización de datos. Me interesa especialmente el **Business Intelligence Analyst**, pero también me atraen el  analisis de datos de **rendimiento deportivo**,y analizar y sumergirme en los datos  donde  pueden generar insights valiosos para la toma de decisiones.  
+Soy un apasionado del análisis de datos con experiencia en la limpieza, modelado y visualización de datos. Mi enfoque se centra especialmente **en Business Intelligence (BI),** aunque también tengo un fuerte interés en el análisis de **rendimiento deportivo**. Me apasiona explorar datos para generar insights valiosos que apoyen la toma de decisiones estratégicas. Estoy comprometido con la mejora continua de mis habilidades y la aplicación práctica de técnicas de análisis en diversas áreas.  
 
 ## 🚀 Habilidades  
 - 📊 **Análisis de datos con R y Python** (pandas, numpy, dplyr, ggplot2, tidymodels)  
